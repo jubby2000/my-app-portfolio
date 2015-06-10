@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Launchy</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app1">Spotify streamer</string>
+    <string name="app2">Scores</string>
+    <string name="app3">Library</string>
+    <string name="app4">Build it Bigger</string>
+    <string name="app5">XYZ Reader</string>
+    <string name="app6">Capstone</string>
+    <string name="title_text">Look, Simba. Everything the light touches is our kingdom.</string>
+
+</resources>
